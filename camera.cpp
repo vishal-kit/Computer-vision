@@ -17,6 +17,7 @@ int main()
             break;      //If you hit ESC key loop will break.
         }
     }
+    
     cvReleaseCapture(&capture); //Release capture.
     cvDestroyWindow("Camera_Output"); //Destroy Window
     return 0;
