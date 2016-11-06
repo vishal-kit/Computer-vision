@@ -6,6 +6,8 @@
 *.exe
 *.o
 *.so
+*.out
+
 
 # Packages #
 ############
@@ -36,6 +38,10 @@
 ehthumbs.db
 Thumbs.db
 
+
 #Test files created for for testing the code initially#
 ######################################################
-
+rough
+out
+test
+*.pdf
